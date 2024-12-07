@@ -25,7 +25,7 @@ I'm an experienced Software Developer with over 4 years of expertise, specializi
 **Liga Stavok (ООО “ПМБК”)**  
 *Nov 2023 - Present*  
 
-- Leading the development of a competitor analysis system.
+Leading the development of a competitor analysis system.
 - Designing databases for systems with over 100 million records (PostgreSQL, TimescaleDB).
 - Developing and maintaining APIs for system interactions, handling RPS > 10k (FastAPI, Apache Kafka, Redis, Celery).
 - Implementing data matching algorithms (fuzzywuzzy, knn-search).
@@ -41,7 +41,7 @@ I'm an experienced Software Developer with over 4 years of expertise, specializi
 **Maxima**  
 *Nov 2022 - Nov 2023*  
 
-- Developed a data collection system for a large SportTech project.
+Developed a data collection system for a large SportTech project.
 - Designed and maintained system databases (PostgreSQL).
 - Built industrial-grade parsers to collect data from external sources (aiohttp, Selenium, bs4).
 - Created APIs for interacting with external services (FastAPI, Django Rest Framework, Celery).
@@ -56,7 +56,7 @@ I'm an experienced Software Developer with over 4 years of expertise, specializi
 **SocialJet (ООО "Сошелджет Рус")**  
 *Aug 2021 - Nov 2022*  
 
-- Participated in the design and development of an analytics platform: [SocialJet Analytics Platform](https://data.socialjet.pro) with over 50k DAU.
+Participated in the design and development of an analytics platform: [SocialJet Analytics Platform](https://data.socialjet.pro) with over 50k DAU.
 - Developed a unified API gateway for mobile apps and websites (FastAPI, GraphQL, Redis, Celery).
 - Set up and maintained CI/CD pipelines (AWS, GitHub Actions, Docker).
 - Designed data storage solutions (PostgreSQL, AWS).
@@ -70,7 +70,7 @@ I'm an experienced Software Developer with over 4 years of expertise, specializi
 **VJBot (ООО "СпецЭлектроМонтаж")**  
 *Sep 2020 - Aug 2021*  
 
-- Contributed to the development of an automated sports betting system.
+Contributed to the development of an automated sports betting system.
 - Supported and enhanced project databases (MySQL).
 - Developed parsers to collect data from external sources (bs4, Selenium).
 - Participated in the development of a unified Telegram bot for customers (Aiogram, Pyrogram).
