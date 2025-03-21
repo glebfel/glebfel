@@ -86,10 +86,7 @@ Contributed to the development of an automated sports betting system.
 ---
 
 ## 📬 Contacts
-
-- **Cell/WhatsApp:** +7-926-800-32-05  
-- **Email:** felyust@list.ru  
-- **GitHub:** [@glebfel](https://github.com/glebfel)  
+- **Email:** felyust@list.ru   
 - **Telegram:** [@gleb_fel](https://t.me/gleb_fel)  
 
 ---
