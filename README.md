@@ -1,20 +1,20 @@
 # Gleb Felyust
 ### Senior Python Developer
 
-I'm an experienced Software Developer with over 4 years of expertise, specializing in commercial backend development. My primary programming language is Python, and I focus on designing, supporting, and maintaining high-load systems and microservices. I have had the opportunity to work in some of the largest companies in Russia, as well as several international startups. I am committed to delivering scalable and robust solutions that meet both business objectives and technical requirements.
+I'm an experienced Software Developer with over 5 years of expertise, specializing in commercial backend development. My primary programming language is Python, and I focus on designing, supporting, and maintaining high-load systems and microservices. I have had the opportunity to work in some of the largest companies in Russia, as well as several international startups. I am committed to delivering scalable and robust solutions that meet both business objectives and technical requirements.
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-- **Programming Languages:** Python
+- **Programming Languages:** Python, JavaScript
 - **Backend Development:** FastAPI, Django Rest Framework
 - **Databases:** PostgreSQL, MySQL, TimescaleDB
 - **Data Processing:** Apache Kafka, Redis, Celery
-- **DevOps & CI/CD:** Docker, GitLab CI, GitHub Actions, AWS
+- **DevOps & CI/CD:** Docker, GitLab CI, GitHub Actions, AWS, Nginx
 - **Monitoring & Logging:** Prometheus, Grafana, Loki, Sentry, ELK
 - **Web Scraping & Parsers:** Selenium, aiohttp, bs4, scrapy, httpx
-- **Testing:** Pytest
+- **Testing:** Pytest, K6
 - **Others:** FuzzyWuzzy, KNN-Search, GraphQL
 
 ---
